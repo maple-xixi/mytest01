@@ -1,1 +1,6 @@
+@font-face {
+    font-family: 'bear';
+    src: url('./bear.ttf') format('truetype');
+    font-display: swap;
+}
 
