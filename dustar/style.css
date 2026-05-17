@@ -1,1 +1,5 @@
-
+@font-face {
+    font-family: 'dustar';
+    src: url('./dustar.ttf') format('truetype');
+    font-display: swap;
+}
