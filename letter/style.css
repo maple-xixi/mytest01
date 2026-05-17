@@ -1,1 +1,5 @@
-
+@font-face {
+    font-family: 'letter';
+    src: url('./letter.ttf') format('truetype');
+    font-display: swap;
+}
