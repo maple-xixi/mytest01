@@ -1,1 +1,6 @@
+@font-face {
+    font-family: 'simplelight';
+    src: url('./simplelight.ttf') format('truetype');
+    font-display: swap;
+}
 
