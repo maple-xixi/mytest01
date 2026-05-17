@@ -1,1 +1,6 @@
+@font-face {
+    font-family: 'pig';
+    src: url('./pig.ttf') format('truetype');
+    font-display: swap;
+}
 
