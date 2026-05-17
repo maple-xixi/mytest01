@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'AppCustomFont';
+    src: url('./testins.ttf') format('truetype');
+    font-display: swap;
+}
+
